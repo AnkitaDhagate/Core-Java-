@@ -1,0 +1,10 @@
+public class ReferenceDemo {
+    public static void main(String[] args) {
+
+        String language = "Java";
+        int[] numbers = {1, 2, 3, 4};
+
+        System.out.println(language.toUpperCase());
+        System.out.println(numbers.length);
+    }
+}

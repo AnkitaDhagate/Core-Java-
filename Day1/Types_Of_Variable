@@ -1,0 +1,14 @@
+1.Local Variable
+void show() {
+    int x = 10;
+}
+
+2.Instance Variable
+class Student {
+    int id;
+}
+
+3.Static Variable
+class College {
+    static String name = "ABC College";
+}
